@@ -1,3 +1,5 @@
+
+
 # OMG-# 
 using System;
 using static System.Console;
@@ -58,6 +60,9 @@ namespace GreenVilleRevenue
             // Display comparison this year to last year
             bIsThisYearGreater = iThisYear > iLastYear;
             WriteLine("\nIts {0} that this year's competition is larger than last year", bIsThisYearGreater);
+            
+            // now what do we want to do???
+            
         }
     }
 }
